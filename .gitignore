@@ -1,0 +1,10 @@
+*.exe
+*.zip
+*.db
+*.db-shm
+*.db-wal
+.env
+node_modules/
+__pycache__/
+*.log 
+*.iso 
